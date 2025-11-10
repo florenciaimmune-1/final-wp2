@@ -2,7 +2,7 @@
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/flormateria/final-wp2.git
+git clone https://github.com/florenciaimmune-1/final-wp2.git
 cd final-wp2
 ```
 
